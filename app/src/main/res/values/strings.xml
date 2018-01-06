@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Delivery\nService</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_order_form">orderForm</string>
+    <string name="title_activity_order_final">orderFinal</string>
+    <string name="title_activity_address_info">addressInfo</string>
+    <string name="title_activity_thank_you">thankYou</string>
+    <string name="title_activity_driver_registration">DriverRegistration</string>
+    <string name="title_activity_driver_registered">DriverRegistered</string>
+    <string name="title_activity_driver_main">DriverMain</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_passwordreset">passwordreset</string>
+    <string name="title_activity_changepassword">changepassword</string>
+    <string name="title_activity_works_available">worksAvailable</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_customer_order">customerOrder</string>
+    <string name="title_activity_customer_login">CustomerSign in</string>
+    <string name="title_activity_customer_registration">customerRegistration</string>
+    <string name="title_activity_customer_main">customerMain</string>
+    <string name="title_activity_jobs_acceptance">jobsAcceptance</string>
+    <string name="title_activity_finalize_order">finalizeOrder</string>
+    <string name="title_activity_customer_complete_delivery">customerCompleteDelivery</string>
+    <string name="title_activity_ratings">ratings</string>
+    <string name="title_activity_driver_complete_delivery">driverCompleteDelivery</string>
+    <string name="title_activity_drivers_work_orders">driversWorkOrders</string>
+    <string name="title_activity_driver_change">DriverChange</string>
+    <string name="title_activity_customer_del_order">CustomerDelOrder</string>
+    <string name="title_activity_customer_con_driver">CustomerConDriver</string>
+    <string name="title_activity_driver_car_reg">DriverCarReg</string>
+    <string name="title_activity_thanks">thanks</string>
+    <string name="title_activity_driver_reg">driverReg</string>
+    <string name="title_activity_customer_change_driver">customerChangeDriver</string>
+    <string name="title_activity_driver_view_order">driverViewOrder</string>
+    <string name="title_activity_report_driver">reportDriver</string>
+    <string name="title_activity_stripe_pay">stripePay</string>
+    <string name="title_activity_delivery_order_success">deliveryOrderSuccess</string>
+    <string name="title_activity_report_success">reportSuccess</string>
+    <string name="title_activity_customer_complete_options">customerCompleteOptions</string>
+    <string name="title_activity_driver_customer_payment_success">driverCustomerPaymentSuccess
+    </string>
+</resources>

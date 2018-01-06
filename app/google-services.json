@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060669572244",
+    "firebase_url": "https://fooddeliver-1294.firebaseio.com",
+    "project_id": "fooddeliver-1294",
+    "storage_bucket": "fooddeliver-1294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060669572244:android:e323c771404827c1",
+        "android_client_info": {
+          "package_name": "com.example.danilo.testingmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060669572244-fe7uj51qe6db3p7r84mive2um8g6n22l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIv2sEchX5h-de5QSbr8uPv6kLVYSpVtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
